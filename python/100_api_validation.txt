@@ -1,0 +1,5 @@
+api: 1360000/BeachInfoservice/getVilageFcstBeach?serviceKey=DEF5XPkxhhq5F1Y2%2FwA8ZWYnFPEJ6UBjmVNTqzWg5KzBilcVtEtOslYXRSYWcDzM1iyrbKapwMAE0ucKHPhtQA%3D%3D&numOfRows=737&pageNo=10&dataType=JSON&base_date=20230904&base_time=1100&beach_num=72
+mean: 2.76
+max: 19.62
+min: 0.94
+
